@@ -1,0 +1,27 @@
+{
+  "name": "noughts-and-crosses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berwyn2/noughts-and-crosses.git"
+  },
+  "keywords": [
+    "noughts",
+    "crosses",
+    "javascript"
+  ],
+  "author": "Berwyn Donald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berwyn2/noughts-and-crosses/issues"
+  },
+  "homepage": "https://github.com/Berwyn2/noughts-and-crosses#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
